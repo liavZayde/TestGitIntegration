@@ -159,11 +159,11 @@
           "z": 0.00
         },
         {
-          "config": "{\"name\":\"8cfdd5fd57e01ea1b21a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":346,\"width\":301,\"height\":355,\"z\":3000}}],\"singleVisual\":{\"visualType\":\"customerfeedback7EEF6C4EC2BA42CC870822632148B7C3_OrgStore\",\"drillFilterOtherVisuals\":true}}",
+          "config": "{\"name\":\"8cfdd5fd57e01ea1b21a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1,\"y\":346,\"width\":301,\"height\":355,\"z\":3000}}],\"singleVisual\":{\"visualType\":\"customerfeedback7EEF6C4EC2BA42CC870822632148B7C3_OrgStore\",\"drillFilterOtherVisuals\":true}}",
           "filters": "[]",
           "height": 355.00,
           "width": 301.00,
-          "x": 0.00,
+          "x": 1.00,
           "y": 346.00,
           "z": 3000.00
         },
