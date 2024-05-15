@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "SparkEnvironment - Copy (3)",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7f64e5c3-456c-4a43-b6b0-0355b4fcde65"
+  }
+}

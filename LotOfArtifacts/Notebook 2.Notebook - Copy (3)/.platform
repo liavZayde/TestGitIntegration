@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Notebook 2",
+    "description": "New notebook - Copy (3)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8ff16b46-7ddc-4521-94db-8c8b5cc82913"
+  }
+}
