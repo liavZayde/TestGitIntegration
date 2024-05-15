@@ -264,11 +264,11 @@
           "z": 3000.00
         },
         {
-          "config": "{\"name\":\"b8da32c746e315235dc5\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":422,\"width\":427,\"height\":298,\"z\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Add the CV from Org here\",\"textStyle\":{\"fontSize\":\"28pt\"}}]}]}}]}}}",
+          "config": "{\"name\":\"b8da32c746e315235dc5\",\"layouts\":[{\"id\":0,\"position\":{\"x\":3,\"y\":422,\"width\":427,\"height\":298,\"z\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Add the CV from Org here\",\"textStyle\":{\"fontSize\":\"28pt\"}}]}]}}]}}}",
           "filters": "[]",
           "height": 298.00,
           "width": 427.00,
-          "x": 0.00,
+          "x": 3.00,
           "y": 422.00,
           "z": 2000.00
         },
