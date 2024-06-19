@@ -1,11 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Report",
-    "displayName": "DQ RLS"
+    "type": "SemanticModel",
+    "displayName": "SqlAzure_DQ"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "0d5913fc-bffd-440a-8b0e-1ed0afcb8f68"
+    "logicalId": "82f10567-31ce-4654-a9a2-e3036e7eac62"
   }
 }
