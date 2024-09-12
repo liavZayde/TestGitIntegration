@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "SqlAzure_DQ"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ab7aa79c-b067-44c6-96a4-1b451a8b987d"
+  }
+}
